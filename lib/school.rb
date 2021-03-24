@@ -4,4 +4,8 @@ class School(new)
     @new = new
   end
 
+  def new
+    @new
+  end
+
 end
