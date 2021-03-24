@@ -1,11 +1,7 @@
-class School(roster)
+class School(new)
 
-  def roster=(roster)
-    @roster = roster
-  end
-
-  def roster
-    @roster
+  def new=(new)
+    @new = new
   end
 
 end
